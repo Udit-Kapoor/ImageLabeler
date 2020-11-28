@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "493928354578",
+    "firebase_url": "https://mlvision-2e89d.firebaseio.com",
+    "project_id": "mlvision-2e89d",
+    "storage_bucket": "mlvision-2e89d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493928354578:android:380438070109f7257f99cb",
+        "android_client_info": {
+          "package_name": "com.pichkari.ml_vision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493928354578-4reqr2gelq8if8q33doc9lrj8bllbbsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8vuqM1PIoZFbksJMh20eRT_GQTn54yNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493928354578-4reqr2gelq8if8q33doc9lrj8bllbbsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
